@@ -108,7 +108,7 @@ Only the following paramaters are supported for the corresponding algorithm.
 
 | Algorithm name | Supported paramater |
 | -------------- | ------------------- |
-| ECDSA          | `K-256 (secp256k1)`, `P-256`, `P-384`, `P-512` |
+| ECDSA          | `K-256 (secp256k1)`, `P-256`, `P-384`, `P-521` |
 | EDDSA          | `ed25519`           | 
 | AES-CTR        | `sha-1`             |
 
